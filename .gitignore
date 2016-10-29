@@ -1,0 +1,6 @@
+*.o
+mapreduce
+sortfile
+*.user
+*.pro
+*.data
